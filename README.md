@@ -14,3 +14,9 @@ El módulo de facturación se desarrolla en un entorno de desarrollo integrado (
 
 *Este es un resumen de la introducción del proyecto SAVEC - EstarBugs, que abarca sus objetivos, tecnologías utilizadas y enfoque de desarrollo.*
 
+
+---
+Autores: Avila Gutiérrez Carlos Alberto, Caro Caceres Sebastian Abel, Lopez Palza Victor Leo, Mamani Jarata Johan Isacc, Ponze Cateriano Joaquin Fabian, Reyes Humiña Paul Edwin Martin
+Escuela Profesional de Ingeniería de Sistemas, Universidad Católica de Santa María Arequipa Perú
+Contacto: carlos.avila@ucsm.edu.pe, sebastian.caro@ucsm.edu.pe, victor.lopez@ucsm.edu.pe, johan.mamani@ucsm.edu.pe, joaquin.ponze@ucsm.edu.pe, paul.reyes@ucsm.edu.pe
+
