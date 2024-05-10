@@ -16,7 +16,10 @@ El módulo de facturación se desarrolla en un entorno de desarrollo integrado (
 
 
 ---
-Autores: Avila Gutiérrez Carlos Alberto, Caro Caceres Sebastian Abel, Lopez Palza Victor Leo, Mamani Jarata Johan Isacc, Ponze Cateriano Joaquin Fabian, Reyes Humiña Paul Edwin Martin
+### Autores: 
+Avila Gutiérrez Carlos Alberto, Caro Caceres Sebastian Abel, Lopez Palza Victor Leo, Mamani Jarata Johan Isacc, Ponze Cateriano Joaquin Fabian, Reyes Humiña Paul Edwin Martin
+### facultad y Universidad:
 Escuela Profesional de Ingeniería de Sistemas, Universidad Católica de Santa María Arequipa Perú
-Contacto: carlos.avila@ucsm.edu.pe, sebastian.caro@ucsm.edu.pe, victor.lopez@ucsm.edu.pe, johan.mamani@ucsm.edu.pe, joaquin.ponze@ucsm.edu.pe, paul.reyes@ucsm.edu.pe
+### Contacto: 
+carlos.avila@ucsm.edu.pe, sebastian.caro@ucsm.edu.pe, victor.lopez@ucsm.edu.pe, johan.mamani@ucsm.edu.pe, joaquin.ponze@ucsm.edu.pe, paul.reyes@ucsm.edu.pe
 
