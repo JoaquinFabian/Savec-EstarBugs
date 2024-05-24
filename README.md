@@ -1,7 +1,7 @@
 # SAVEC - EstarBugs
 # Guerra de testers - EstarBugs Group
 
-### Actualización de Versiones:
+### Versiones:
 Para acceder a las diversas versiones del proyecto, tanto antiguas como las más actualizadas, dirígete al apartado de "Branches". Allí encontrarás una lista completa de las diferentes versiones disponibles.
 
 Es importante tener en cuenta que la versión más reciente siempre se encuentra en la rama más actualizada. En este caso, la última versión del proyecto es la `version-2`.
